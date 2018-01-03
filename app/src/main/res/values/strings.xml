@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReactiveProgramming</string>
+    <string name="title_activity_marvel_list">MarvelListActivity</string>
+</resources>
